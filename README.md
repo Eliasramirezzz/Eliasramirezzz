@@ -37,7 +37,12 @@
 
 - Me enfoco más en **backend** que en frontend  
 - Me gustan los proyectos de **procesamiento de datos**  
-- Hago apps web y de escritorio para proyectos personales  
+- Hago apps web y de escritorio para proyectos personales
+
+### 🌎 Contacto
+<div>
+  elias-ramirez-030a51273
+</div>
 <!--
 **Eliasramirezzz/Eliasramirezzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
