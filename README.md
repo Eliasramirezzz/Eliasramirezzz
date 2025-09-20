@@ -40,9 +40,12 @@
 - Hago apps web y de escritorio para proyectos personales
 
 ### 🌎 Contacto
-<div>
-  elias-ramirez-030a51273
-</div>
+
+
+### 📈 Estadísticas
+![Tus Stats](https://github-readme-stats.vercel.app/api?username=Eliasramirezzz&show_icons=true&theme=radical)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliasramirezzz&layout=compact&theme=radical)
+
 <!--
 **Eliasramirezzz/Eliasramirezzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
