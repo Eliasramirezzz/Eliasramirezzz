@@ -41,7 +41,6 @@
 
 ### 🌎 Contacto
 [![linkein](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elias-ramirez-030a51273)](https://www.linkedin.com/in/elias-ramirez-030a51273/)&nbsp;
-  &nbsp; [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laf.0182@gmail.com)](mailto:laf.0182@gmail.com)&nbsp;
 
 
 
