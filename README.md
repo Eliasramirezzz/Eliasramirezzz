@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Eliasramirezzz/ramirez-dev/main/Img/banner.jpg" alt="Banner Ramirez Dev" />
+  <img src="https://raw.githubusercontent.com/Eliasramirezzz/Eliasramirezzz/main/Img/banner.jpg" alt="Banner Ramirez Dev" />
 </p>
 
 <!--
