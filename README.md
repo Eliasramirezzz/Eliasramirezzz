@@ -114,10 +114,9 @@ enfoque: Backend, APIs y aplicaciones web dinámicas
 </p>
 
 >
-```yaml
+<!--
 🐍 El gráfico "snake" de arriba se anima solo si activás el workflow correspondiente (ver nota al final).
-```
-
+-->
 <br>
 
 ## 🌎 Contacto
