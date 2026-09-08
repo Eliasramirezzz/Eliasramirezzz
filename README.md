@@ -113,7 +113,10 @@ enfoque: Backend, APIs y aplicaciones web dinámicas
   <img src="https://raw.githubusercontent.com/Eliasramirezzz/Eliasramirezzz/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
-> 🐍 El gráfico "snake" de arriba se anima solo si activás el workflow correspondiente (ver nota al final).
+>
+```yaml
+🐍 El gráfico "snake" de arriba se anima solo si activás el workflow correspondiente (ver nota al final).
+```
 
 <br>
 
